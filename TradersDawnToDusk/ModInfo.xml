@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TradersDawnToDusk" />
+		<Description value="Changes the open and close times of traders" />
+		<Author value="Ricowan" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
